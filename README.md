@@ -7,5 +7,5 @@ Virtual drag and drop adalah sebuah konsep dalam desain antarmuka pengguna (UI) 
 3.  - install opency `pip install opencv`
     - install mediapipe `pip install mediapipe`
     - install numpy `pip install numpy`
-4. Run main.py
+4. Run main.py untuk memulai program
 5. Untuk keluar, `Ctrl+C` pada terminal
