@@ -9,7 +9,3 @@
     - install numpy `pip install numpy`
 4. Run main.py
 5. Untuk keluar, `Ctrl+C` pada terminal
-
-### Fix Error
-
-`pip install Tensorflow`
